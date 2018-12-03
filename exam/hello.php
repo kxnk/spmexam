@@ -2,7 +2,7 @@
 <body>
     <h1>Hello</h1>
     <?php
-    echo "I want to make edits to the same line";
+    echo "Hello Voledermort";
     $now = date('Y-m-d H:m:s');
     echo $now;
     ?>
