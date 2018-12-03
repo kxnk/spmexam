@@ -2,7 +2,7 @@
 <body>
     <h1>Hello</h1>
     <?php
-    echo "Hello";
+    echo "Hello Nina";
     $now = date('Y-m-d H:m:s');
     echo $now;
     ?>
